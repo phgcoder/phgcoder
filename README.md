@@ -15,31 +15,27 @@ Gosto de aprender através da prática e transformar conhecimentos em projetos q
 Além do desenvolvimento Full Stack, também tenho interesse em Backend e Cybersecurity, áreas que pretendo explorar ao longo da minha formação.
 
 ## 🛠️ Tecnologias e conhecimentos
-•Linguagens
 
-•C
+### Linguagens e Desenvolvimento
 
-•Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+</p>
 
-•JavaScript
+### Outros conhecimentos
 
-•Desenvolvimento Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+</p>
 
-•HTML5
-
-•CSS3
-
-•JavaScript
-
-Outros conhecimentos
-
-•Lógica de Programação
-
-•UI/UX
-
-•Linux — nível intermediário
-
-•Inglês — nível básico
+- 🧠 Lógica de Programação
+- 🎨 UI/UX
+- 🐧 Linux — nível intermediário
+- 🇺🇸 Inglês — nível básico
 
 ## 🚀 Projetos
 ### 🔧 Sistema de Cadastro de Ferramentas
