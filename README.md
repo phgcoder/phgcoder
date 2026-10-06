@@ -24,13 +24,10 @@ Além do desenvolvimento Full Stack, também tenho interesse em Backend e Cybers
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
 </p>
 
 ### Outros conhecimentos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-</p>
 
 - 🧠 Lógica de Programação
 - 🎨 UI/UX
@@ -82,7 +79,7 @@ EREM Frei Orlando — Concluído
 🇺🇸 Inglês — Básico
 ## 📫 Onde me encontrar
 <div>
-<a href="pedrohgs1007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+<a href="mailto:pedrohgs1007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-henrique-694b3742b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
 </div>
 
