@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Henrique
+# 💻 Pedro Henrique
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no UNIPÊ, atualmente no 2º período.
 
